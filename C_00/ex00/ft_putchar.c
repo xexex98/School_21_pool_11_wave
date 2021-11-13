@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_putchar.c                                       :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: mbarra <mbarra@student.21-school.ru>       +#+  +:+       +#+        */
+/*   By: mbarra <mbarra@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/08/19 18:11:14 by mbarra            #+#    #+#             */
-/*   Updated: 2021/08/19 19:36:53 by mbarra           ###   ########.fr       */
+/*   Updated: 2021/11/13 19:14:23 by mbarra           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -16,3 +16,10 @@ void	ft_putchar(char c)
 {
 	write (1, &c, 1);
 }
+
+// void	ft_putchar(char c);
+
+// int	main(void)
+// {
+// 	ft_putchar('2');
+// }

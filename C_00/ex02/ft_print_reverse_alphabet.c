@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_print_reverse_alphabet.c                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: mbarra <mbarra@student.21-school.ru>       +#+  +:+       +#+        */
+/*   By: mbarra <mbarra@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/08/19 19:50:55 by mbarra            #+#    #+#             */
-/*   Updated: 2021/08/19 22:26:37 by mbarra           ###   ########.fr       */
+/*   Updated: 2021/11/13 19:15:08 by mbarra           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -28,3 +28,10 @@ void	ft_print_reverse_alphabet(void)
 		za--;
 	}
 }
+
+// void	ft_print_reverse_alphabet(void);
+// int	main(void)
+// {
+// 	ft_print_reverse_alphabet();
+// 	return (0);
+// }

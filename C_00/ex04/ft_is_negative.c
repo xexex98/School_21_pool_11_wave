@@ -6,7 +6,7 @@
 /*   By: mbarra <mbarra@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/08/19 21:35:21 by mbarra            #+#    #+#             */
-/*   Updated: 2021/08/19 23:37:16 by mbarra           ###   ########.fr       */
+/*   Updated: 2021/11/13 19:15:41 by mbarra           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -24,3 +24,10 @@ void	ft_is_negative(int n)
 	else
 		ft_putchar('N');
 }
+
+// void	ft_is_negative(int i);
+// int	main(void)
+// {
+// 	ft_is_negative(0);
+// 	return (0);
+// }
