@@ -6,7 +6,7 @@
 /*   By: mbarra <mbarra@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/08/21 16:15:26 by mbarra            #+#    #+#             */
-/*   Updated: 2021/08/27 11:51:50 by mbarra           ###   ########.fr       */
+/*   Updated: 2021/11/13 19:25:57 by mbarra           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -27,3 +27,15 @@ int	ft_str_is_alpha(char	*str)
 	}
 	return (empty);
 }
+
+// #include <stdio.h>
+
+// int	ft_str_is_alpha(char	*str);
+
+// int	main(void)
+// {
+// 	int	a;
+
+// 	a = ft_str_is_alpha("asasdfasAd1fSda");
+// 	printf("%d", a);
+// }

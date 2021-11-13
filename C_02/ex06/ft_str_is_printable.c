@@ -6,7 +6,7 @@
 /*   By: mbarra <mbarra@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/08/21 20:47:16 by mbarra            #+#    #+#             */
-/*   Updated: 2021/08/21 21:49:11 by mbarra           ###   ########.fr       */
+/*   Updated: 2021/11/13 19:27:07 by mbarra           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -27,3 +27,15 @@ int	ft_str_is_printable(char	*str)
 	}
 	return (empty);
 }
+
+// #include <stdio.h>
+
+// int	ft_str_is_printable(char	*str);
+
+// int	main(void)
+// {
+// 	int	a;
+
+// 	a = ft_str_is_printable(".adasd");
+// 	printf("%d", a);
+// }

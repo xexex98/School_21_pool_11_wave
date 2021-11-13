@@ -6,7 +6,7 @@
 /*   By: mbarra <mbarra@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/08/21 13:01:50 by mbarra            #+#    #+#             */
-/*   Updated: 2021/08/22 19:50:23 by mbarra           ###   ########.fr       */
+/*   Updated: 2021/11/13 19:25:23 by mbarra           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -23,3 +23,17 @@ char	*ft_strcpy(char	*dest, char	*src)
 	dest[i] = '\0';
 	return (dest);
 }
+
+// #include <stdio.h>
+
+// char	*ft_strcpy(char	*dest, char	*src);
+
+// int	main(void)
+// {
+// 	char	p[] = "";
+// 	char	z[] = "Hello";
+
+// 	ft_strcpy(p, z);
+// 	printf("%s\n", p);
+// 	return (0);
+// }

@@ -6,7 +6,7 @@
 /*   By: mbarra <mbarra@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/08/21 08:54:31 by mbarra            #+#    #+#             */
-/*   Updated: 2021/08/21 10:21:16 by mbarra           ###   ########.fr       */
+/*   Updated: 2021/11/13 19:23:17 by mbarra           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -28,3 +28,14 @@ void	ft_putstr(char	*str)
 		w++;
 	}
 }
+
+// #include <unistd.h>
+
+// void	ft_putstr(char	*str);
+
+// int	main(void)
+// {
+// 	char	text[] = "Hello World!";
+// 	ft_putstr(text);
+// 	return (0);
+// }

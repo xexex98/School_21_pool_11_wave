@@ -6,7 +6,7 @@
 /*   By: mbarra <mbarra@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/08/21 20:42:05 by mbarra            #+#    #+#             */
-/*   Updated: 2021/08/21 21:49:13 by mbarra           ###   ########.fr       */
+/*   Updated: 2021/11/13 19:26:52 by mbarra           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -27,3 +27,15 @@ int	ft_str_is_uppercase(char	*str)
 	}
 	return (empty);
 }
+
+// #include <stdio.h>
+
+// int	ft_str_is_uppercase(char	*str);
+
+// int	main(void)
+// {
+// 	int	a;
+
+// 	a = ft_str_is_uppercase("ADASD");
+// 	printf("%d", a);
+// }

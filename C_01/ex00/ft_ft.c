@@ -6,7 +6,7 @@
 /*   By: mbarra <mbarra@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/08/20 20:20:21 by mbarra            #+#    #+#             */
-/*   Updated: 2021/08/21 10:19:57 by mbarra           ###   ########.fr       */
+/*   Updated: 2021/11/13 19:17:50 by mbarra           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -14,3 +14,17 @@ void	ft_ft(int	*nbr)
 {
 	*nbr = 42;
 }
+
+// #include <stdio.h>
+
+// int	main(void)
+// {
+// 	int	a;
+// 	int	*nbr;
+
+// 	nbr = &a;
+// 	a = 10;
+// 	printf("%d\n", a);
+// 	ft_ft(nbr);
+// 	printf("%d\n", *nbr);
+// }
